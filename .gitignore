@@ -1,0 +1,51 @@
+# Ignore Maven target directory
+/target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Eclipse project files
+/.settings/
+/.classpath
+/.project
+
+# Ignore NetBeans project files
+/nbproject/
+
+# Ignore VS Code settings
+/.vscode/
+
+# Ignore local Maven repository
+/.mvn/
+
+# Ignore Java class files
+*.class
+
+# Ignore Maven wrapper files if not needed
+/mvnw
+/mvnw.cmd
+/.mvn/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Ignore JAR and WAR files (optional, if you don't want to commit them)
+*.jar
+*.war
+
+# Ignore application.properties (optional, if you don't want to commit it)
+application.properties
+
+# Ignore Gradle wrapper files (if using Gradle instead of Maven)
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Ignore build configuration files (optional)
+/*.iml
